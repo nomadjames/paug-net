@@ -23,7 +23,7 @@ export default function BlogPage() {
               <Link href={`/blog/${post.slug}`}>{post.title}</Link>
             </h3>
             <div className="card-meta">
-              {post.date} &mdash; {post.author}
+              {post.date} // {post.author}
             </div>
             <p>{post.excerpt}</p>
             <Link href={`/blog/${post.slug}`} className="card-link">

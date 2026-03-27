@@ -46,7 +46,7 @@ export default function Home() {
 
       {/* What is PAUG */}
       <section className="page-section">
-        <h2 className="section-header section-header--cyan">WTF is PAUG?</h2>
+        <h2 className="section-header section-header--cyan">What is PAUG?</h2>
         <div className="about-text">
           <p>
             PAUG is a monthly meetup for anyone making music with Ableton Live
@@ -55,7 +55,7 @@ export default function Home() {
           </p>
           <br />
           <p>
-            Each month has a different focus &mdash; sound design, mixing, live
+            Each month has a different focus: sound design, mixing, live
             performance, Max for Live, whatever the group wants to dig into.
             Sometimes it&apos;s structured workshops. Sometimes it&apos;s just people
             plugging in and jamming. It&apos;s always good.

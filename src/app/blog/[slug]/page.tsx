@@ -38,7 +38,7 @@ export default async function PostPage({
         </Link>
         <h1 className="section-header">{post.title}</h1>
         <div className="card-meta" style={{ marginBottom: "2rem" }}>
-          {post.date} &mdash; {post.author}
+          {post.date} // {post.author}
         </div>
         <div
           className="post-content"

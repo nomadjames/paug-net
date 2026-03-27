@@ -20,20 +20,20 @@ export default function AboutPage() {
           <br />
           <p>
             We meet monthly at various venues around Pittsburgh. Each session
-            has a theme &mdash; sound design, mixing, live performance, Max for
+            has a theme: sound design, mixing, live performance, Max for
             Live, sampling, whatever the community wants to explore. But the
             real value isn&apos;t the curriculum. It&apos;s the connections.
           </p>
           <br />
           <p>
             PAUG is genre-agnostic and skill-agnostic. Ambient, techno,
-            hip-hop, experimental noise &mdash; if you make it in Ableton, you
+            hip-hop, experimental noise. If you make it in Ableton, you
             belong here. First-timers sit next to veterans. Everyone teaches,
             everyone learns.
           </p>
           <br />
           <p>
-            No dues. No gatekeeping. No corporate sponsorship bullshit. Just
+            No dues. No gatekeeping. No corporate sponsorship. Just
             people making sounds together in Pittsburgh.
           </p>
         </div>

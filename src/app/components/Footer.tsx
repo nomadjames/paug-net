@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container">
         <p>
-          PAUG &mdash; Pittsburgh Ableton User Group &mdash;{" "}
+          PAUG // Pittsburgh Ableton User Group //{" "}
           {new Date().getFullYear()}
         </p>
       </div>
