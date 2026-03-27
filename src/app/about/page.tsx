@@ -62,9 +62,9 @@ export default function AboutPage() {
             <div className="founder-avatar">SK</div>
             <h3>Steve Knots</h3>
             <p>
-              Ableton producer with 25 years in electronic music, live sound
-              engineer, and creator of Mixitecture. Makes dubby house and
-              techno where the bassline runs the show.
+              25 years in electronic music. Ableton producer, live sound
+              engineer, and creator of Mixitecture. Dubby house, techno,
+              and whatever else needs a low end.
             </p>
             <a href="https://mixitecture.com" className="founder-link">
               mixitecture.com &rarr;
