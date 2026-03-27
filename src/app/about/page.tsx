@@ -45,15 +45,15 @@ export default function AboutPage() {
         <h2 className="section-header section-header--pink">Founders</h2>
         <div className="founders-grid">
           <div className="founder-card">
-            <div className="founder-avatar">JD</div>
-            <h3>James Dishman</h3>
+            <div className="founder-avatar">PM</div>
+            <h3>Paul Miller</h3>
             <p>
-              UX designer, producer, and sound design nerd. Has strong opinions
-              about sidechain compression and will share them whether you ask or
-              not.
+              Live performer and hardware enthusiast. Bridges the gap between
+              DAWs and drum machines. Will convince you to buy a synthesizer you
+              can&apos;t afford.
             </p>
-            <a href="https://nomadjames.com" className="founder-link">
-              nomadjames.com &rarr;
+            <a href="https://theoryofpaul.net" className="founder-link">
+              theoryofpaul.net &rarr;
             </a>
           </div>
 
@@ -71,15 +71,15 @@ export default function AboutPage() {
           </div>
 
           <div className="founder-card">
-            <div className="founder-avatar">PM</div>
-            <h3>Paul Miller</h3>
+            <div className="founder-avatar">JD</div>
+            <h3>James Dishman</h3>
             <p>
-              Live performer and hardware enthusiast. Bridges the gap between
-              DAWs and drum machines. Will convince you to buy a synthesizer you
-              can&apos;t afford.
+              UX designer, producer, and sound design nerd. Has strong opinions
+              about sidechain compression and will share them whether you ask or
+              not.
             </p>
-            <a href="https://theoryofpaul.net" className="founder-link">
-              theoryofpaul.net &rarr;
+            <a href="https://nomadjames.com" className="founder-link">
+              nomadjames.com &rarr;
             </a>
           </div>
         </div>
