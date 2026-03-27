@@ -75,9 +75,9 @@ export default function AboutPage() {
             <div className="founder-avatar">JD</div>
             <h3>James Dishman</h3>
             <p>
-              UX designer, producer, and sound design nerd. Has strong opinions
-              about sidechain compression and will share them whether you ask or
-              not.
+              Producing electronic music since 2000. Founded Pittsburgh&apos;s
+              Ableton community because nobody else was going to do it.
+              Builds things that make noise.
             </p>
             <a href="https://nomadjames.com" className="founder-link">
               nomadjames.com &rarr;
