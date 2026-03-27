@@ -62,9 +62,9 @@ export default function AboutPage() {
             <div className="founder-avatar">SK</div>
             <h3>Steve Knots</h3>
             <p>
-              Multi-instrumentalist and Ableton power user. If there&apos;s a
-              shortcut key for it, Steve knows it. Probably mapped it to a MIDI
-              controller too.
+              Ableton producer with 25 years in electronic music, live sound
+              engineer, and creator of Mixitecture. Makes dubby house and
+              techno where the bassline runs the show.
             </p>
             <a href="https://mixitecture.com" className="founder-link">
               mixitecture.com &rarr;
