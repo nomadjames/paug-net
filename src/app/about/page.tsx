@@ -48,9 +48,10 @@ export default function AboutPage() {
             <div className="founder-avatar">PM</div>
             <h3>Paul Miller</h3>
             <p>
-              Live performer and hardware enthusiast. Bridges the gap between
-              DAWs and drum machines. Will convince you to buy a synthesizer you
-              can&apos;t afford.
+              Associate Professor of music theory at Duquesne University,
+              violist, and director of the soundLab. Studied with Stockhausen,
+              builds electronic instruments, and somehow still finds time to
+              jam in Ableton.
             </p>
             <a href="https://theoryofpaul.net" className="founder-link">
               theoryofpaul.net &rarr;
