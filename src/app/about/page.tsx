@@ -52,8 +52,8 @@ export default function AboutPage() {
               about sidechain compression and will share them whether you ask or
               not.
             </p>
-            <a href="#" className="founder-link">
-              Link &rarr;
+            <a href="https://nomadjames.com" className="founder-link">
+              nomadjames.com &rarr;
             </a>
           </div>
 
@@ -65,8 +65,8 @@ export default function AboutPage() {
               shortcut key for it, Steve knows it. Probably mapped it to a MIDI
               controller too.
             </p>
-            <a href="#" className="founder-link">
-              Link &rarr;
+            <a href="https://mixitecture.com" className="founder-link">
+              mixitecture.com &rarr;
             </a>
           </div>
 
@@ -78,8 +78,8 @@ export default function AboutPage() {
               DAWs and drum machines. Will convince you to buy a synthesizer you
               can&apos;t afford.
             </p>
-            <a href="#" className="founder-link">
-              Link &rarr;
+            <a href="https://theoryofpaul.net" className="founder-link">
+              theoryofpaul.net &rarr;
             </a>
           </div>
         </div>
