@@ -27,7 +27,7 @@ export default function AboutPage() {
           <br />
           <p>
             PAUG is genre-agnostic and skill-agnostic. Ambient, techno,
-            hip-hop, experimental noise. If you make it in Ableton, you
+            hip-hop, experimental noise. No matter how you make it, you
             belong here. First-timers sit next to veterans. Everyone teaches,
             everyone learns.
           </p>
