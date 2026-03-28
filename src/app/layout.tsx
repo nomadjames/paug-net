@@ -21,7 +21,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "PAUG — Pittsburgh Ableton User Group",
   description:
-    "Pittsburgh's electronic music production community. Monthly meetups for Ableton Live users of all levels.",
+    "Pittsburgh's electronic music production community. Meetups for Ableton Live users of all levels.",
 };
 
 export default function RootLayout({

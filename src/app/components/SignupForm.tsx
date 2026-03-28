@@ -3,7 +3,7 @@ export default function SignupForm() {
     <div className="signup-section">
       <h3>Get on the list</h3>
       <p>
-        Monthly updates on meetups, workshops, and Pittsburgh electronic music
+        Updates on meetups, workshops, and Pittsburgh electronic music
         news. No spam. Unsubscribe whenever.
       </p>
       {/* Replace the action URL with your real Mailchimp form action */}

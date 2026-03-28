@@ -19,7 +19,7 @@ export default function AboutPage() {
           </p>
           <br />
           <p>
-            We meet monthly at various venues around Pittsburgh. Each session
+            We meet at various venues around Pittsburgh. Each session
             has a theme: sound design, mixing, live performance, Max for
             Live, sampling, whatever the community wants to explore. But the
             real value isn&apos;t the curriculum. It&apos;s the connections.

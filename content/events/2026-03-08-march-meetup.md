@@ -13,7 +13,7 @@ Our inaugural meetup! We had an incredible first session with 11 people showing 
 - Introductions and backgrounds - everything from bedroom producers to live performers
 - Show-and-tell: members demoed current projects
 - Group discussion on what we want PAUG to be
-- Decided on monthly meetup cadence
+- Decided on regular meetup cadence
 - Spontaneous jam session that went 45 minutes over
 
 Thanks to everyone who came out. This is going to be something special.
