@@ -49,7 +49,7 @@ export default function Home() {
         <h2 className="section-header section-header--cyan">What is PAUG?</h2>
         <div className="about-text">
           <p>
-            PAUG is a monthly meetup for anyone making music with Ableton Live
+            PAUG is a meetup for anyone making music with Ableton Live
             in the Pittsburgh area. We get together, share what we&apos;re working
             on, learn new techniques, and make noise together.
           </p>
