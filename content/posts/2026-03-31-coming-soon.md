@@ -1,7 +1,7 @@
 ---
 title: "More Content Coming Soon"
 date: "2026-03-31"
-author: "PAUG"
+author: "James Dishman"
 excerpt: "We're just getting started. New posts on synthesis, production techniques, and the Pittsburgh audio scene are on the way."
 ---
 

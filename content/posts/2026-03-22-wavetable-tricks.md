@@ -1,7 +1,7 @@
 ---
 title: "5 Wavetable Tricks You're Probably Not Using"
 date: "2026-03-22"
-author: "Steve Knots"
+author: "James Dishman"
 excerpt: "Wavetable is one of Ableton's most powerful synths but most people barely scratch the surface. Here are five techniques to level up your patches."
 ---
 
